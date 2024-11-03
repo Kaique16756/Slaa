@@ -9,7 +9,7 @@ local AFKOptions = {}
 
 local Discord = Window:MakeTab({"Discord", "Info"})
 Discord:AddDiscordInvite({
-  Name = "king hub | Community",
+  Name = "the king hub | Community",
   Description = "Join our discord community",
   Logo = "rbxassetid://15298567397",
   Invite = "https://discord.gg/QHzf7Xxj"
